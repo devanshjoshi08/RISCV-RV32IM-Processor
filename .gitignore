@@ -1,0 +1,24 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Simulation outputs
+*.vcd
+*.wdb
+*.wcfg
+
+# Build artifacts
+*.bit
+*.bin
+*.ltx
+
+# OS files
+.DS_Store
+Thumbs.db
